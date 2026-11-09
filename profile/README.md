@@ -46,6 +46,7 @@ Our approach combines first-principles engineering, deliberate architecture, eff
 Our technology choices are driven by engineering requirements and project objectives.
 
 - C / C++
+- Kin
 - Zig
 - Linux and systems programming
 - Computer architecture
